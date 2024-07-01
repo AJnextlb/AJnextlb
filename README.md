@@ -2,7 +2,7 @@
 # BITCOINEX
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-This repository contains the initial setup and the final version of the Hamster Kombat clone project, including the basic project structure, necessary images, and icons.
+This repository contains the initial setup and the final version of the Bitcoinex project, including the basic project structure, necessary images, and icons.
 
 Currently, two official plugins are available:
 ## Overview
